@@ -1,8 +1,10 @@
 # API Authorization Lab
 
+<p><img src="assets/0xfarag-logo.png" alt="0xFarag" width="100"></p>
+
 **One finding. Two implementations. Reproducible HTTP evidence.**
 
-A small Python lab showing an object-level authorization defect in a synthetic invoice API and the effect of a server-side ownership check. Prepared for Nasser Aldin Farag's Web/API Security portfolio with AI assistance.
+A small Python lab showing an object-level authorization defect in a synthetic invoice API and the effect of a server-side ownership check. Part of Nasser Aldin Farag's Web/API Security portfolio.
 
 ## Review in two minutes
 
