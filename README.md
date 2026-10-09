@@ -72,3 +72,7 @@ Das Lab belegt eine fehlende Prüfung der Objektberechtigung. Eine bekannte Demo
 - [Python http.server documentation](https://docs.python.org/3.12/library/http.server.html)
 
 Original educational example; no platform exercises, exam questions or customer material are included. Code: MIT License.
+
+## Rights and permissions
+
+Copyright © 2026 Nasser Aldin Farag (0xFarag). Rights in his own protectable contributions remain reserved, subject to permissions already granted. The existing [MIT LICENSE](LICENSE) remains in force. [Owner notice](NOTICE.txt) · [Personal branding and AuthzLedger rights](https://github.com/0xFarag/0xFarag/blob/main/AUTHZLEDGER_RIGHTS.md).
